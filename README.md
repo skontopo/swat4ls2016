@@ -1,7 +1,7 @@
 Studying the Cohesion Evolution of Genes Related to Chronic Lymphocytic Leukemia Using Semantic Similarity in Gene Ontology and Self-Organizing Maps
 ===
 
-This repository contains the data and code associated to the following paper:
+This repository contains the data and code associated with the following paper:
 
 E. Kontopoulos, T. Moysiadis, M. Tsagiopoulou, S. Darányi, P. Wittek, N. Papakonstantinou, S. Ntoufa, G. Meditskos, K. Stamatopoulos, I. Kompatsiaris. (2016). [Studying the Cohesion Evolution of Genes Related to Chronic Lymphocytic Leukemia Using Semantic Similarity in Gene Ontology and Self-Organizing Maps](https://www.researchgate.net/profile/Efstratios_Kontopoulos/publication/310254239_Studying_the_Cohesion_Evolution_of_Genes_Related_to_Chronic_Lymphocytic_Leukemia_Using_Semantic_Similarity_in_Gene_Ontology_and_Self-Organizing_Maps/links/582ad3a008ae138f1bf40300.pdf). Proceedings of [SWAT4LS-16](http://www.swat4ls.org/workshops/amsterdam2016/), 9th Semantic Web Applications and Tools for Life Sciences Workshop, December 2016.
 
